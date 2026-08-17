@@ -1,3 +1,5 @@
+import resumePdf from "../assets/resume/Lohith-Gowda-HP-Resume.pdf";
+
 export const personalInfo = {
   fullName: "Lohith Gowda HP",
   displayName: "Lohith Gowda",
@@ -8,7 +10,7 @@ export const personalInfo = {
   projectCount: "03",
   focus: "AWS / DevOps",
   location: "Bengaluru, Karnataka, India",
-  resumeUrl: "/Lohith-Gowda-HP-Resume.pdf",
+  resumeUrl: resumePdf,
 };
 
 export const skills = [
