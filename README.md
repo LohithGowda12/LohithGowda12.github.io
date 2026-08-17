@@ -1,11 +1,11 @@
 # 🌐 Lohith Gowda HP — Personal Portfolio
 
-[Live Site](#) | [LinkedIn](https://linkedin.com/in/lohithgowda2005) | [GitHub](https://github.com/LohithGowda12)
+[Live Site](https://lohithgowda12.github.io/) | [LinkedIn](https://linkedin.com/in/lohithgowda2005) | [GitHub](https://github.com/LohithGowda12)
 
 My personal portfolio website — showcasing my skills, projects, and education as a Computer Science & Engineering undergrad at Don Bosco Institute of Technology.
 
 ## 🚀 Live Demo
-👉 *(Website link will be added here)*
+👉 [https://lohithgowda12.github.io/](https://lohithgowda12.github.io/)
 
 ## 📋 About
 A personal portfolio built using modern web technologies. Features a sleek dark theme with glowing red accents, smooth animations, and scroll-triggered reveals. Highlights my technical skills, featured projects, academic background, and contact information in a clean, responsive single-page layout.
