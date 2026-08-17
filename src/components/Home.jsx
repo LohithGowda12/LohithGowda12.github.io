@@ -47,7 +47,7 @@ const Home = () => {
           <div className="flex flex-wrap gap-4">
             <a 
               href={personalInfo.resumeUrl}
-              download
+              download="Lohith-Gowda-HP-Resume.pdf"
               className="group flex items-center justify-center space-x-2 px-6 py-3 bg-primary text-white text-sm font-bold tracking-wider rounded-xl hover:bg-red-600 transition-colors duration-300"
             >
               <span className="whitespace-nowrap">DOWNLOAD RESUME</span>

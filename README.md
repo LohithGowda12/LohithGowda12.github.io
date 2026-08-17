@@ -1,6 +1,6 @@
 # 🌐 Lohith Gowda HP — Personal Portfolio
 
-[Live Site](https://lohithgowda12.github.io/) | [LinkedIn](https://linkedin.com/in/lohithgowda2005) | [GitHub](https://github.com/LohithGowda12)
+[Live Site](https://lohithgowda12.github.io/) | [LinkedIn](https://linkedin.com/in/lohithgowda2005) | [GitHub](https://github.com/LohithGowda12) | [Resume](./src/assets/resume/Lohith-Gowda-HP-Resume.pdf)
 
 My personal portfolio website — showcasing my skills, projects, and education as a Computer Science & Engineering undergrad at Don Bosco Institute of Technology.
 
@@ -58,6 +58,7 @@ Full-stack food ordering platform for browsing food items, managing a cart, and 
 - 📞 +91 76193*****
 - 💬 [WhatsApp](https://wa.me/917619379659)
 - 🔗 [LinkedIn](https://linkedin.com/in/lohithgowda2005)
+- 📄 [Resume](./src/assets/resume/Lohith-Gowda-HP-Resume.pdf)
 
 ## 📁 Repo Structure
 ```text

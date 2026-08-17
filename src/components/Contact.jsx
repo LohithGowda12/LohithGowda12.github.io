@@ -73,7 +73,7 @@ const Contact = () => {
       >
         <a 
           href={personalInfo.resumeUrl}
-          download
+          download="Lohith-Gowda-HP-Resume.pdf"
           className="px-8 py-3 bg-primary rounded-md text-white font-bold tracking-widest text-sm hover:bg-red-600 transition-colors duration-300 shadow-[0_0_20px_rgba(225,6,0,0.4)] hover:shadow-[0_0_25px_rgba(225,6,0,0.5)]"
         >
           DOWNLOAD RESUME
